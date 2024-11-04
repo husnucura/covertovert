@@ -6,8 +6,14 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+.. note::
+   İsmail Berke Türkmen
+   Hüsnü Cura
+   Group 1
+   
 
+Contents
+--------
 
 .. toctree::
    :maxdepth: 2
